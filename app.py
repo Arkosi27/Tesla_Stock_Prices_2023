@@ -4,7 +4,7 @@ import streamlit as st
 
 st.write("""
     #Simple Stock Price App
-         Shown are the stock closing price of the Volume of Tesla        
+        # Shown are the stock closing price of the Volume of Tesla        
  
           
           
